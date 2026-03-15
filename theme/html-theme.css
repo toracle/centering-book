@@ -1,6 +1,6 @@
 /* Centering Book - HTML Theme for GitHub Pages */
 
-@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&family=Nanum+Gothic+Coding:wght@400;700&family=Nanum+Myeongjo:wght@400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&family=Noto+Sans+KR:wght@400;500;700&family=Noto+Sans+Mono:wght@400;700&display=swap');
 
 /* =========================================
    CSS Custom Properties (Design Tokens)
@@ -17,8 +17,9 @@
   --light-green-bg:  #F2F8F5;
   --light-blue-bg:   #EBF3F6;
   --light-sand-bg:   #FBF8F2;
-  --font-serif: 'Nanum Myeongjo', 'NanumMyeongjo', Georgia, serif;
-  --font-sans:  'Nanum Gothic', 'NanumGothic', sans-serif;
+  --font-serif: 'Noto Serif KR', Georgia, serif;
+  --font-sans:  'Noto Sans KR', sans-serif;
+  --font-mono:  'Noto Sans Mono', monospace;
   --max-width: 800px;
   --body-size: 17px;
   --line-height: 1.8;
@@ -368,7 +369,7 @@ table.tableblock tr:nth-child(even) td {
    Code
    ========================================= */
 code, pre {
-  font-family: 'D2Coding', 'Fira Mono', Consolas, monospace;
+  font-family: var(--font-mono);
 }
 
 code {

@@ -1,6 +1,7 @@
 # Build output
 dist/
 fonts/
+.fonts-cache/
 Centering-v*.pdf
 
 # Typst build artifacts

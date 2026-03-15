@@ -1,0 +1,58 @@
+== 부록: 참고 자료
+
+=== 추천 도서
+
+==== 마음챙김과 자기 수용
+- "Radical Acceptance" — Tara Brach
+- "Self-Compassion" — Kristin Neff
+- "The Gifts of Imperfection" — Brené Brown
+
+==== DBT와 감정 조절
+- "The Dialectical Behavior Therapy Skills Workbook" — Matthew McKay
+- "DBT Skills Training Manual" — Marsha Linehan
+
+==== 실존주의 심리학
+- "Man's Search for Meaning" — Viktor Frankl
+- "The Courage to Be" — Paul Tillich
+
+==== 비폭력 대화
+- "Nonviolent Communication" — Marshall Rosenberg
+
+=== 온라인 자료
+
+- Mindfulness 앱: Headspace, Calm, Insight Timer
+- DBT 자료: DBT Self Help (dbtselfhelp.com)
+
+=== 연습 시트
+
+다음은 일상에서 활용할 수 있는 연습 시트입니다. 복사하거나 응용해서 사용하세요.
+
+==== 내면의 목소리 관찰 일지
+
+[.practice-box]
+====
+*날짜:*
+
+*상황:* 어떤 일이 있었나요?
+
+*내면의 목소리:* 어떤 생각이 들었나요?
+
+*신체 감각:* 몸에서 어떤 느낌이 들었나요?
+
+*알아차린 점:* 이 목소리의 패턴을 발견했나요?
+====
+
+==== 관찰과 해석 분리 연습
+
+[.practice-box]
+====
+*상황:*
+
+*관찰 가능한 사실:* (판단 없이)
+
+*나의 해석:* (어떻게 받아들였나요?)
+
+*다른 해석 가능성:* (다르게 볼 수 있을까요?)
+
+*실제 감정과 욕구:* (해석 너머의 진짜 느낌)
+====

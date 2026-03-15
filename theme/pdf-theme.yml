@@ -1,0 +1,232 @@
+extends: default
+page:
+  size: [148mm, 210mm]
+  margin: [20mm, 15mm, 20mm, 20mm]
+  margin-inner: 20mm
+  margin-outer: 15mm
+
+base:
+  font-family: NanumMyeongjo
+  font-size: 10
+  line-height: 1.7
+  font-color: '#2C3E50'
+  text-align: justify
+
+vertical_rhythm: 12
+
+font:
+  catalog:
+    NanumMyeongjo:
+      normal: NanumMyeongjo.ttf
+      bold: NanumMyeongjoBold.ttf
+      italic: NanumMyeongjo.ttf
+      bold_italic: NanumMyeongjoBold.ttf
+    NanumGothic:
+      normal: NanumGothic.ttf
+      bold: NanumGothicBold.ttf
+      italic: NanumGothic.ttf
+      bold_italic: NanumGothicBold.ttf
+    NanumGothicCoding:
+      normal: NanumGothicCoding.ttf
+      bold: NanumGothicCodingBold.ttf
+      italic: NanumGothicCoding.ttf
+      bold_italic: NanumGothicCodingBold.ttf
+
+heading:
+  font-family: NanumGothic
+  font-color: '#4A7C8F'
+  font-style: bold
+  line-height: 1.3
+  margin-top: 12
+  margin-bottom: 6
+
+heading_h1:
+  font-size: 22
+  border-bottom-width: 1
+  border-bottom-color: '#4A7C8F'
+  padding-bottom: 4
+  margin-top: 0
+  margin-bottom: 12
+
+heading_h2:
+  font-size: 16
+  margin-top: 16
+  margin-bottom: 8
+
+heading_h3:
+  font-size: 12
+  font-color: '#4A7C8F'
+  margin-top: 12
+  margin-bottom: 6
+
+heading_h4:
+  font-size: 10.5
+  font-color: '#2C3E50'
+  font-style: bold
+
+title_page:
+  align: center
+  title:
+    font-family: NanumGothic
+    font-size: 28
+    font-color: '#4A7C8F'
+    font-style: bold
+    margin-bottom: 8
+  subtitle:
+    font-family: NanumMyeongjo
+    font-size: 16
+    font-color: '#2C3E50'
+    font-style: italic
+    margin-bottom: 24
+  authors:
+    font-family: NanumGothic
+    font-size: 12
+    font-color: '#2C3E50'
+    margin-bottom: 6
+
+toc:
+  font-family: NanumGothic
+  font-size: 10
+  font-color: '#2C3E50'
+  dot-leader-font-color: '#B0B0B0'
+  line-height: 1.5
+  indent: 10
+  h2-font-style: bold
+  h2-font-color: '#4A7C8F'
+
+header:
+  font-family: NanumGothic
+  font-size: 8
+  font-color: '#9EA8B0'
+  height: 12mm
+  border-bottom-width: 0.5
+  border-bottom-color: '#E0E0E0'
+  recto:
+    right:
+      content: '{section-title}'
+  verso:
+    left:
+      content: '{doctitle}'
+
+footer:
+  font-family: NanumGothic
+  font-size: 8
+  font-color: '#9EA8B0'
+  height: 12mm
+  border-top-width: 0.5
+  border-top-color: '#E0E0E0'
+  recto:
+    right:
+      content: '{page-number}'
+  verso:
+    left:
+      content: '{page-number}'
+
+prose:
+  margin-top: 0
+  margin-bottom: 6
+
+list:
+  indent: 16
+  item-spacing: 3
+
+# Quote block (used for .quote-box role)
+quote:
+  font-size: 10.5
+  font-style: italic
+  font-color: '#4A7C8F'
+  border-left-width: 3
+  border-left-color: '#F4A460'
+  padding: [6, 12, 6, 12]
+  background-color: '#FBF8F2'
+  cite-font-size: 9
+  cite-font-color: '#9EA8B0'
+
+# Admonition blocks (TIP = tip-box)
+admonition:
+  column-rule-width: 0
+  padding: [6, 10, 6, 10]
+  label:
+    font-family: NanumGothic
+    font-size: 8
+    font-style: bold
+
+admonition_tip:
+  background-color: '#F0F4FB'
+  border-left-width: 3
+  border-left-color: '#B4A7D6'
+  label:
+    font-color: '#B4A7D6'
+
+admonition_note:
+  background-color: '#FFF4F3'
+  border-left-width: 3
+  border-left-color: '#E89B8C'
+  label:
+    font-color: '#E89B8C'
+
+admonition_important:
+  background-color: '#F2F8F5'
+  border-left-width: 3
+  border-left-color: '#7A9B76'
+  label:
+    font-color: '#7A9B76'
+
+admonition_warning:
+  background-color: '#FFF8E7'
+  border-left-width: 3
+  border-left-color: '#F4A460'
+  label:
+    font-color: '#C8860A'
+
+admonition_caution:
+  background-color: '#FFF0F0'
+  border-left-width: 3
+  border-left-color: '#E05252'
+  label:
+    font-color: '#E05252'
+
+# Example block (used for .concept-box, .practice-box)
+example:
+  background-color: '#F5F1E8'
+  border-width: 1
+  border-color: '#E89B8C'
+  border-radius: 3
+  padding: [8, 10, 8, 10]
+  title:
+    font-family: NanumGothic
+    font-size: 10
+    font-style: bold
+    font-color: '#4A7C8F'
+
+sidebar:
+  background-color: '#F2F8F5'
+  border-width: 1
+  border-color: '#7A9B76'
+  border-radius: 3
+  padding: [8, 10, 8, 10]
+
+code:
+  font-family: NanumGothicCoding
+  font-size: 9
+  font-color: '#4A7C8F'
+  background-color: '#2C3E50'
+  padding: [4, 6, 4, 6]
+
+table:
+  font-size: 9.5
+  border-width: 0.5
+  border-color: '#D0D0D0'
+  head:
+    font-style: bold
+    font-color: '#4A7C8F'
+    background-color: '#EBF3F6'
+  body:
+    stripe-background-color: '#F9F9F9'
+  foot:
+    background-color: '#EBF3F6'
+
+thematic_break:
+  border-width: 0.5
+  border-color: '#C0C0C0'
+  margin: [8, 0, 8, 0]

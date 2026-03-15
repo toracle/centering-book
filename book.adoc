@@ -1,0 +1,50 @@
+= Centering: 당신은 이미 충분합니다
+Jeongsoo Park (박정수)
+:subtitle: 프로그래머와 사회 초년생을 위한 내면의 중심 이야기
+:doctype: book
+:encoding: utf-8
+:lang: ko
+:toc:
+:toclevels: 1
+:toc-title: 목차
+:sectnums:
+:sectnumlevels: 2
+:imagesdir: images
+:pdf-theme: theme/pdf-theme.yml
+:source-highlighter: rouge
+:icons: font
+:chapter-label: 세션
+:part-label: 파트
+:preface-title: 시작하며
+:appendix-caption: 부록
+:table-caption: 표
+:figure-caption: 그림
+:last-update-label!:
+:caution-caption: 주의
+:important-caption: 중요
+:note-caption: 참고
+:tip-caption: 팁
+:warning-caption: 경고
+:license: CC BY-SA 4.0
+:license-url: https://creativecommons.org/licenses/by-sa/4.0/
+:revdate: 2026-03
+:revnumber: 0.5
+:description: 센터링 — 프로그래머와 사회 초년생을 위한 자기 가치와 내면의 중심 이야기
+:keywords: 센터링, 자기가치, 성장, 내면, 프로그래머
+:docinfo: shared
+
+include::chapters/00-preface.adoc[]
+
+include::chapters/01-inner-talk.adoc[]
+
+include::chapters/02-iceberg.adoc[]
+
+include::chapters/03-validation.adoc[]
+
+include::chapters/04-flow.adoc[]
+
+include::chapters/05-maturity.adoc[]
+
+include::chapters/06-closing.adoc[]
+
+include::chapters/07-appendix.adoc[]

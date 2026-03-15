@@ -1,0 +1,24 @@
+# Build output
+dist/
+fonts/
+Centering-v*.pdf
+
+# Typst build artifacts
+*.pdf.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Ruby - commit Gemfile.lock for reproducible builds
+.bundle/
+vendor/bundle/
+
+# Node (if any tooling is added)
+node_modules/

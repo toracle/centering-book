@@ -1,4 +1,4 @@
-= Centering: 당신은 이미 충분합니다
+= Centering: 내가 나로 건강하게 존재하기
 Jeongsoo Park (박정수)
 :subtitle: 프로그래머와 사회 초년생을 위한 내면의 중심 이야기
 :doctype: book
@@ -48,3 +48,5 @@ include::chapters/05-maturity.adoc[]
 include::chapters/06-closing.adoc[]
 
 include::chapters/07-appendix.adoc[]
+
+include::chapters/08-colophon.adoc[]

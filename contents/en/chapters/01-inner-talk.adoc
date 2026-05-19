@@ -1,0 +1,285 @@
+// Session 1: Noticing Your Inner Voice (Inner Talk)
+
+== Session 1: Noticing Your Inner Voice
+
+[.chapter-quote,quote]
+____
+You cannot defeat your gremlin by fighting it. But you can notice it.
+____
+
+[.concept-box]
+.Core Concepts
+====
+- *Inner Talk*: The thoughts that arise automatically in our minds
+- *The Inner Gremlin*: The critical, negative voice within
+- *The Space Between Stimulus and Response*: The zone where the freedom to choose lives
+====
+
+'''
+
+=== Minsu's Day
+
+Minsu, a five-year software developer, had a company-wide tech talk scheduled for three o'clock that afternoon. He was about to present the caching system he had spent three months building to thirty of his colleagues.
+
+==== Morning Commute (9:00 AM)
+
+Subway line 7. Minsu was doing one last review of his slides on his phone when a Slack notification popped up.
+
+"Minsu, I'm really looking forward to your talk today! 😊"
+
+It was Sujin from the backend team. Minsu smiled briefly — then his expression went flat. A voice rose inside his head.
+
+[.quote-box]
+____
+_"Remember how nervous you were at last year's talk? Remember what your team lead said? This time will be exactly the same. Actually, it'll be worse."_
+____
+
+Minsu sighed. This voice. It had always been there. It appeared without fail at every important moment — at his graduation presentation, during job interviews, at his first project demo. *Repetitive. Automatic.*
+
+_"Everyone saw your voice shake. You were so embarrassed. And you will be again today."_
+
+Minsu pocketed his phone and closed his eyes. He kept telling himself to relax, but his heart was already pounding.
+
+==== The Slide Spiral (11:00 AM)
+
+Back at his desk, Minsu opened his slides again. Page 17 — a performance comparison graph caught his eye.
+
+_"This graph... isn't it too simple? Team lead is going to look at this and say, 'That's all you've got?'"_
+
+Minsu started tweaking the graph. He changed the colors, added a legend, adjusted the layout. Twenty minutes passed.
+
+_"No, that's not right either. Was the original better?"_
+
+He reverted everything. Then changed it again.
+
+_"If you present this unprepared, everyone's going to wonder what you've been doing for three months."_
+
+[TIP]
+====
+Perfectionism is often a trap created by the inner gremlin. It keeps you endlessly revising so you never get to the real work.
+====
+
+Minsu kept tweaking the slide — changing, reverting, changing again. After forty minutes, the graph looked exactly the same as it had at the start. He had lost forty minutes.
+
+He closed his laptop and buried his face in his hands. _Why do I always do this?_
+
+==== The Moment of Noticing (2:20 PM)
+
+Minsu sat at his desk, staring blankly at his monitor. Less than an hour to go.
+
+Then, unexpectedly, he recalled a piece he had stumbled across online the week before — a blog post about a book called _Taming Your Gremlin_.
+
+[.quote-box]
+____
+The one thing a gremlin hates most is simply being noticed. The harder you fight it, the stronger it grows. But the moment you simply notice that it's there, its power begins to fade.
+____
+
+Minsu closed his eyes. This time, unlike before, he decided to actually listen to the voice in his head. *Without fighting it.* Just... observing it.
+
+_"You're going to fail again. You always do."_
+
+_'This voice really loves the word "always." It loves "never" and "everyone" too.'_
+
+_"You're going to disappoint everyone."_
+
+_'Everyone? All thirty people? Every single one?'_
+
+_"When they see your hands shaking, how humiliating is that going to be..."_
+
+_'Shaking hands... is that really such a big deal? Is it actually forbidden to be nervous?'_
+
+Minsu breathed slowly. The voice was still there. But strangely, it felt different from before. It was as if someone had turned down the volume on a radio.
+
+'''
+
+=== Core Concept: Inner Talk
+
+We reportedly have somewhere between 50,000 and 70,000 thoughts per day. A significant portion of those are automatic, repetitive, and often negative.
+
+This *inner voice (Inner Talk)*:
+
+- Arises automatically
+- Feels like fact
+- Follows repetitive patterns
+- Influences our emotions and behavior
+
+[.concept-box]
+.The Inner Gremlin
+====
+The *Gremlin* is the critical, negative voice inside us.
+
+Characteristics:
+
+- *Extreme language*: "always," "never," "everyone," "no one"
+- *Future prediction*: "You're going to...," "This will..."
+- *Overgeneralization from the past*: "You always do this"
+- *Speaking for others*: "People are going to think..."
+====
+
+==== Why Shouldn't You Fight the Gremlin?
+
+When Minsu kept telling himself not to be nervous, his nervousness only intensified. Why?
+
+[TIP]
+====
+What happens when someone tells you, "Don't think about a pink elephant"? Paradoxically, you think about it even more. Suppression produces the opposite effect.
+====
+
+*Fighting gives the gremlin energy.*
+
+- The more you try to suppress it, the stronger it grows
+- The more you try to argue back, the more evidence it produces
+- The more you try to ignore it, the louder it shouts
+
+So what should you do instead?
+
+=== Awareness: The Space Between Stimulus and Response
+
+Viktor Frankl wrote:
+
+[.quote-box]
+____
+Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.
+
+_— Viktor Frankl_
+____
+
+This is exactly what Minsu experienced. Between the inner voice (stimulus) and our emotions and actions (response), there is a *space*.
+
+[cols="1,1,1", frame=all, grid=all]
+|===
+| *Stimulus* +
+Inner voice
+| → *The Space of Choice* +
+Awareness
+| *Response* +
+Conscious choice
+|===
+
+In that space, we can:
+
+1. *Notice* — "Ah, I hear that voice"
+2. *Observe* — "There's that word 'always' again"
+3. *Choose* — "Do I want to believe this thought or not?"
+
+[.concept-box]
+.The Power of Awareness
+====
+Awareness transforms automatic reactions into conscious choices:
+
+*Before:* Inner voice → automatic reaction → emotion/behavior
+
+*After:* Inner voice → *awareness* → conscious choice
+====
+
+==== The Three Stages of Awareness
+
+1. *Recognition*
+   - "I can hear my inner voice right now"
+   - "This is a thought"
+
+2. *Observation*
+   - Observing without fighting
+   - Looking at the pattern with curiosity
+
+3. *Choice*
+   - "Do I want to believe this thought?"
+   - "Do I want to act on this thought?"
+
+'''
+
+=== Practice Exercises
+
+==== Exercise 1: Catching Your Inner Voice
+
+Over the next week, observe your inner voice once a day.
+
+[.practice-box]
+.Observation Journal
+====
+*Situation:* What happened?
+
+*Inner voice:* What thoughts came up? (Write them down exactly.)
+
+*Gremlin characteristics:* What patterns do you notice?
+
+- [ ] Extreme language ("always," "never," etc.)
+- [ ] Future prediction
+- [ ] Overgeneralization from the past
+- [ ] Speaking for others
+
+*Physical sensations:* What did you feel in your body?
+====
+
+[TIP]
+====
+It may feel difficult at first. Try spending just five minutes at the end of each day to write it down. After a few days, patterns will start to emerge.
+====
+
+==== Exercise 2: Labeling
+
+When you hear your inner voice, try placing a label on it:
+
+- "Ah, a *judgment* is arising"
+- "Ah, there's that *overgeneralization* again"
+- "Ah, I hear *future worry* coming in"
+- "Ah, *my gremlin* is talking"
+
+Even this small act allows you to step back from the automatic reaction. Labeling is *the first step in separating yourself from your thoughts*.
+
+==== Exercise 3: Naming Your Gremlin
+
+Here is a fun approach: give your gremlin a name.
+
+For example: "Perfecta," "Worrywart," "Comparator"
+
+Giving it a name creates distance.
+
+_"Perfecta is showing up again. Hey, Perfecta. There you are."_
+
+'''
+
+=== After Minsu's Talk
+
+At three o'clock, Minsu began his presentation.
+
+His voice trembled a little in the first few minutes. His hands shook too. But this time, something was different.
+
+_"See? You're shaking. Everyone can tell."_
+
+_'Ah, the gremlin is talking.'_
+
+Minsu paused to catch his breath, then kept going. He did not try to make the trembling stop. He just... presented while trembling.
+
+After fifteen minutes, Minsu noticed that he was actually focused on the content. He was explaining the caching system's architecture, sharing the performance improvements he had made.
+
+When the presentation ended, several questions came in. Good questions. Minsu was able to share the things he had been thinking about for three months.
+
+"Minsu, that was really valuable. We're going to try applying this in our team."
+
+It was Sujin. She meant it.
+
+Minsu smiled. The gremlin's predictions had been wrong.
+
+[.concept-box]
+====
+*Core Insight*
+
+You do not need to defeat the gremlin.
+
+You only need to notice that it is there.
+
+Awareness alone opens the space between automatic reaction and conscious choice.
+
+That space is your freedom.
+====
+
+'''
+
+=== Preview of the Next Session
+
+In the next session, we will explore the *Iceberg Model*.
+
+Now that you have learned to notice your inner voice, it is time to explore what lies beneath it. Below the surface reaction is emotion; below emotion is need; and below need is value.
+
+You will practice separating observation from interpretation, learning to look at yourself without judgment.

@@ -1,0 +1,474 @@
+// Session 2: The Space Before Reacting (Iceberg Model)
+
+== Session 2: The Space Before Reacting
+
+[.chapter-quote,quote]
+____
+In the space between stimulus and response, we live by choice rather than on autopilot.
+____
+
+[.concept-box]
+.Core Concepts
+====
+- *The Iceberg Model*: A framework for understanding the emotions, needs, and values hidden beneath behavior
+- *Observation vs. Evaluation*: The ability to separate fact from interpretation
+- *NVC's Four Steps*: Observation → Feeling → Need → Request
+- *The Space Between Stimulus and Response*: The domain where the power to choose resides
+====
+
+'''
+
+=== In the Meeting Room
+
+Minjun's fingers stopped above his keyboard. A message from his team lead sat open in Slack.
+
+"Minjun, I reviewed the proposal you shared yesterday. I think it would be worth reconsidering."
+
+His heart sank. _Of course it wasn't good enough._ A voice erupted inside his head.
+
+[.quote-box]
+____
+_You never have what it takes. This is another failure._
+____
+
+He recognized it as inner talk from the previous session. He noticed the critical voice — but he immediately began to type a reply.
+
+"Yes, understood. I'm sorry for my shortcomings—"
+
+His finger stopped just before hitting send. _Wait. What am I doing right now?_
+
+Minjun leaned back in his chair for a moment.
+
+==== Sensing the Feeling
+
+_What am I feeling right now?_
+
+There was a heaviness in his chest. His face felt hot. These were clearly *feelings*.
+
+"Embarrassed." "Anxious."
+
+But what lay beneath them?
+
+A stream of thoughts ran through Minjun's mind:
+
+- 'My team lead thinks my proposal is terrible.'
+- 'This is always how it goes with me.'
+- 'Everyone is going to see me as incompetent.'
+
+==== Stopping to Distinguish
+
+Minjun caught himself. These were *thoughts* — not feelings. And these thoughts were all *interpretations*.
+
+What had the team lead actually said?
+
+[TIP]
+====
+*Observation*: "I think it would be worth reconsidering."
+
+That was all. Words like "terrible" or "incompetent" appeared nowhere in the message.
+====
+
+If a video camera had recorded this situation, it would have captured only that one sentence.
+
+Observation and interpretation had become tangled together.
+
+==== Discovering the Need
+
+Minjun breathed in slowly. Then he asked himself again.
+
+_What do I actually want?_
+
+- He wanted to be recognized.
+- He wanted to contribute.
+- He wanted to grow.
+
+These were his *needs*.
+
+So what choices did he have in this situation?
+
+==== A New Response
+
+Minjun deleted his draft reply. Then he wrote a new one.
+
+[.quote-box]
+____
+"Thank you for the feedback. Could you share more specifically which parts you think could be improved? I'd like to find a better direction."
+____
+
+After pressing send, he noticed a different feeling than before. He was still a little shaky, but this time it wasn't shame — it was *curiosity*. And a small measure of resolve.
+
+The space between stimulus and response. In that narrow gap, Minjun had become a slightly different person.
+
+'''
+
+=== Looking Below the Surface of the Iceberg
+
+What Minjun experienced is something we all go through every day. The moment we encounter a word or situation (a stimulus), we react almost instantly. But family therapist Virginia Satir reminds us that this reaction is never simple.
+
+[.concept-box]
+.Satir's Iceberg Model
+====
+The behavior visible above the surface is only the tip of the iceberg. Beneath it lie many layers.
+====
+
+[cols="1", frame=all, grid=all]
+|===
+| *Behavior* — Words and actions ← above the surface
+| *Feelings* — Shame, anxiety, fear
+| *Perceptions* — Interpretations and perspectives
+| *Expectations* — "Should," "will," "must"
+| *Yearnings* — Recognition, contribution, growth
+| *Self* — Who am I?
+|===
+
+Let us analyze Minjun's situation using the Iceberg Model:
+
+[.practice-box]
+.Minjun's Iceberg
+====
+*Behavior*: "I'm sorry for my shortcomings—" (an apologetic reply)
+
+*Feelings*: Shame, anxiety, fear (heaviness in the chest, hot face)
+
+*Perceptions*: "My team lead thinks my proposal is terrible"
+
+*Expectations*: "If I put out a good proposal, I'll be recognized"
+
+*Yearnings*: To be recognized; to contribute; to grow
+
+*Self*: Minjun, who wants to become better
+====
+
+When we cannot distinguish between these layers, we get stuck in automatic-reaction mode. But once we begin to recognize each layer, *room for choice* opens up.
+
+'''
+
+=== Separating Observation from Interpretation
+
+Marshall Rosenberg, the founder of Nonviolent Communication (NVC), wrote:
+
+[.quote-box]
+____
+"The ability to observe without evaluating is the highest form of human intelligence."
+
+_— Marshall Rosenberg_
+____
+
+Let us look at the message Minjun received again:
+
+[cols="1,1", frame=all, grid=all]
+|===
+| *Observation* | *Interpretation*
+| "I think it would be worth reconsidering." | "He thinks my proposal is terrible."
+|===
+
+[TIP]
+====
+*Observation* is what a video camera can capture: who said what, what happened.
+
+*Interpretation* is the meaning we layer on top of that.
+====
+
+Interpretation is not inherently bad. But problems arise when we *mistake our interpretation for fact*.
+
+==== Let's Practice
+
+Separate the following situations into observation and interpretation:
+
+[.practice-box]
+.Observation vs. Interpretation
+====
+*Situation 1:*
+
+- Observation: "She did not nod during the meeting."
+- Interpretation: "She disagrees with my opinion."
+
+*Situation 2:*
+
+- Observation: "He didn't say good morning to me today."
+- Interpretation: "He's angry with me."
+
+*Situation 3:*
+
+- Observation: "I sent a message two days before the project deadline and got no reply."
+- Interpretation: "She's ignoring me."
+====
+
+There are countless reasons why someone might not nod — tired, deep in thought, a stiff neck. *Our interpretation is just one of many possibilities.*
+
+'''
+
+=== Separating Feelings from Thoughts
+
+"I feel like I've been dismissed."
+
+Is that a feeling?
+
+[.concept-box]
+.Real Feelings vs. Pseudo-Feelings
+====
+In NVC, phrases like "I feel like I've been..." or "I feel ignored" are called *pseudo-feelings*.
+
+They are actually thoughts (interpretations) dressed up as feelings.
+====
+
+==== Finding the Real Feeling
+
+[cols="1,1", frame=all, grid=all]
+|===
+| *Pseudo-Feeling* | *Real Feeling*
+| "I feel betrayed." +
+"I feel dismissed." +
+"I feel used."
+| "I'm hurt and angry." +
+"I'm lonely and sad." +
+"I'm drained and resentful."
+|===
+
+Characteristics of real feelings:
+
+- Expressed as states you are in ("I'm sad," "I'm angry," "I'm anxious")
+- An experience arising within your own body
+- Contain no judgment of others
+- Point to an unmet need
+
+[TIP]
+====
+*Why does this distinction matter?*
+
+Feelings are signals that arise within us — signs that a need is unmet.
+
+Thoughts, by contrast, are a particular way of interpreting that signal.
+====
+
+==== From Feeling to Need
+
+When we recognize a feeling, we can access the real need beneath it.
+
+[.practice-box]
+.Discovering the Need Behind the Feeling
+====
+*Pseudo-feeling*: "I feel betrayed."
+
+- Thought: The other person is a bad person
+- Outcome: Blame and disconnection
+
+*Real feeling*: "I'm hurt and angry."
+
+- Need: Trust, safety, respect
+- Outcome: I can take care of my own need
+====
+
+When we stay at the level of thought alone, we only blame others or jump to conclusions about situations. But when we discover our needs through our feelings, we can find ways to meet *what we actually require*.
+
+'''
+
+=== The Space Between Stimulus and Response
+
+This sentence, commonly attributed to Viktor Frankl, cuts to the heart of it:
+
+[.quote-box]
+____
+"Between stimulus and response there is a space. In that space lies the power to choose our response. In our response lies our growth and our freedom."
+
+_— Viktor Frankl (paraphrase)_
+____
+
+The moment Minjun stopped just before pressing send — that was the *space*.
+
+[cols="1", frame=all, grid=all]
+|===
+| *Stimulus* — The team lead's message
+| ↓ *The Space of Choice* +
+Recognizing feelings → separating observation from interpretation → identifying the need
+| *Response* — A conscious choice
+|===
+
+We usually don't notice this space. The gap between the stimulus (the team lead's message) and the response (the apologetic reply) is almost nonexistent.
+
+But when you practice awareness, *this space gradually expands.*
+
+==== Questions You Can Ask in the Space
+
+In that space, we can ask ourselves:
+
+1. *What am I feeling right now?* (Recognizing emotion)
+2. *Is this an observation or an interpretation?* (Separating fact from interpretation)
+3. *What is my real need here?* (Identifying the need)
+4. *What choices do I have in this situation?* (Making a conscious choice)
+
+This is *self-sensing* — consciously tracking the processes happening within us. And this is precisely the practice of *centering*.
+
+'''
+
+=== The STOP Framework for Practice
+
+Here is a way to open the space between stimulus and response, summarized with the acronym *STOP*.
+
+[.concept-box]
+.The STOP Framework
+====
+*S - Stop & Sense*
+
+Before reacting immediately, pause. Take one breath. Sense what is happening in your body right now.
+
+*T - Tell yourself what you feel*
+
+Use the inner talk awareness you practiced in the previous session. Name the emotion you are feeling and say it to yourself.
+"I notice I'm anxious right now." / "I'm angry."
+
+*O - Observe vs. Interpret*
+
+- Fact: What actually happened?
+- Interpretation: How did I interpret it?
+
+*P - Pinpoint needs, then choose*
+
+What need is this feeling pointing to? (Safety, recognition, understanding, connection...)
+And how do I want to respond in this situation?
+====
+
+[cols="1,1,1,1", frame=all, grid=all]
+|===
+| *S* +
+Stop & +
+Sense
+| *T* +
+Tell yourself +
+what you feel
+| *O* +
+Observe vs. +
+Interpret
+| *P* +
+Pinpoint needs, +
+then choose
+|===
+
+[TIP]
+====
+At first this process will feel slow and awkward.
+
+But with practice, this space opens naturally. And inside that space, we can begin to live with *intention* rather than on autopilot.
+====
+
+'''
+
+=== Practice Exercises
+
+==== Exercise 1: Exploring Your Iceberg
+
+Think of a moment this week when you felt a strong emotion. Let's analyze it using the Iceberg Model.
+
+[.practice-box]
+.Exploring My Iceberg
+====
+*Behavior* (words and actions visible on the surface):
+
+{blank}
+
+*Feelings* (emotions you felt):
+
+{blank}
+
+*Perceptions* (my interpretation of the situation):
+
+{blank}
+
+*Expectations* (expectations I was holding):
+
+{blank}
+
+*Yearnings* (what I truly wanted):
+
+{blank}
+====
+
+==== Exercise 2: Practicing Observation and Interpretation
+
+Once a day for a week, practice separating observation from interpretation.
+
+[.practice-box]
+.Observation vs. Interpretation Journal
+====
+*Situation:*
+
+*My interpretation:* (the thought that arose first)
+
+{blank}
+
+*Pure observation:* (what a video camera would capture)
+
+{blank}
+
+*Other possible interpretations:*
+
+{blank}
+====
+
+==== Exercise 3: Practicing STOP
+
+The next time you feel an urge to react automatically, try STOP.
+
+[.practice-box]
+.STOP Practice Journal
+====
+*S - Stop & Sense*
+
+- What I noticed in my body:
+
+*T - Tell yourself what you feel*
+
+- Name of the emotion:
+
+*O - Observe vs. Interpret*
+
+- Observation:
+- Interpretation:
+
+*P - Pinpoint needs, then choose*
+
+- Need:
+- Response I chose:
+====
+
+'''
+
+=== Closing: The Freedom to Choose
+
+Let us return to Minjun's story.
+
+When he first received the message, he was about to react automatically — caught in shame, ready to apologize immediately.
+
+But he stopped. And in that narrow space:
+
+- He sensed his feelings (embarrassment, anxiety)
+- He separated observation from interpretation
+- He discovered his real needs (recognition, contribution, growth)
+- He chose a new response
+
+[.concept-box]
+====
+*Core Insight*
+
+We do not have to react automatically to every stimulus.
+
+There is a space between stimulus and response.
+
+In that space, we can:
+
+- Feel
+- Think
+- Choose
+
+That space is our freedom — and our growth.
+====
+
+'''
+
+=== Preview of the Next Session
+
+In the next session, we will explore *the wisdom of emotion*.
+
+Now that you understand the role of emotions within the Iceberg Model, it is time to explore them more deeply. Emotions are not merely reactions — they are an inner compass delivering vital information.
+
+You will learn how to be with your emotions without suppressing them or letting them overwhelm you.

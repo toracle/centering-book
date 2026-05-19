@@ -1,0 +1,52 @@
+= Centering: Being Healthy as Yourself
+Jeongsoo Park
+:subtitle: An Inner Compass for Programmers and Young Professionals
+:doctype: book
+:encoding: utf-8
+:lang: en
+:toc:
+:toclevels: 1
+:toc-title: Contents
+:sectnums:
+:sectnumlevels: 2
+:imagesdir: images
+:pdf-theme: theme/pdf-theme.yml
+:source-highlighter: rouge
+:icons: font
+:chapter-label: Session
+:part-label: Part
+:preface-title: Preface
+:appendix-caption: Appendix
+:table-caption: Table
+:figure-caption: Figure
+:last-update-label!:
+:caution-caption: Caution
+:important-caption: Important
+:note-caption: Note
+:tip-caption: Tip
+:warning-caption: Warning
+:license: CC BY-SA 4.0
+:license-url: https://creativecommons.org/licenses/by-sa/4.0/
+:revdate: 2026-03
+:revnumber: 0.5
+:description: Centering — An inner compass for programmers and young professionals on self-worth and finding your center
+:keywords: centering, self-worth, growth, inner life, programmers
+:docinfo: shared
+
+include::chapters/00-preface.adoc[]
+
+include::chapters/01-inner-talk.adoc[]
+
+include::chapters/02-iceberg.adoc[]
+
+include::chapters/03-validation.adoc[]
+
+include::chapters/04-flow.adoc[]
+
+include::chapters/05-maturity.adoc[]
+
+include::chapters/06-closing.adoc[]
+
+include::chapters/07-appendix.adoc[]
+
+include::chapters/08-colophon.adoc[]

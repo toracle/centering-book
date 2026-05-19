@@ -1,0 +1,58 @@
+== Appendix: References and Resources
+
+=== Recommended Reading
+
+==== Mindfulness and Self-Acceptance
+- "Radical Acceptance" — Tara Brach
+- "Self-Compassion" — Kristin Neff
+- "The Gifts of Imperfection" — Brené Brown
+
+==== DBT and Emotion Regulation
+- "The Dialectical Behavior Therapy Skills Workbook" — Matthew McKay
+- "DBT Skills Training Manual" — Marsha Linehan
+
+==== Existential Psychology
+- "Man's Search for Meaning" — Viktor Frankl
+- "The Courage to Be" — Paul Tillich
+
+==== Nonviolent Communication
+- "Nonviolent Communication" — Marshall Rosenberg
+
+=== Online Resources
+
+- Mindfulness apps: Headspace, Calm, Insight Timer
+- DBT resources: DBT Self Help (dbtselfhelp.com)
+
+=== Practice Sheets
+
+The following practice sheets can be used in daily life. Feel free to copy or adapt them.
+
+==== Inner Voice Observation Journal
+
+[.practice-box]
+====
+*Date:*
+
+*Situation:* What happened?
+
+*Inner voice:* What thoughts came up?
+
+*Physical sensations:* What did you feel in your body?
+
+*What you noticed:* Did you spot any patterns in this voice?
+====
+
+==== Separating Observation from Interpretation
+
+[.practice-box]
+====
+*Situation:*
+
+*Observable facts:* (without judgment)
+
+*My interpretation:* (how I received it)
+
+*Other possible interpretations:* (could I see it differently?)
+
+*Real emotions and needs:* (what is truly felt, beneath the interpretation)
+====
